@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+header{
+    margin: 20px 30px;
+}
+.section{
+    display: inline-block;
+    font-weight: 500;
+}
+.hover:hover{
+    background-color: #b9cbb9de;
+    padding: 10px;
+}
+.logo{
+    font-weight: 900;
+}
+.item1{
+    margin: 0px 0px 0px 830px;
+}
+.item1, .item2 , .item3{
+    margin-right: 15px;
+}
+main{
+    margin: 0px 40px;
+}
+section{
+    display: inline-block;
+    width: 280px;
+    margin-right: 10px;
+    vertical-align: top;
+}
+img{
+    width: 100%;
+    opacity: 0.8;
+    margin-bottom: 12px;
+}
+h3{
+    font-weight: 100;
+    margin-bottom: 12px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+}
+.role{
+    margin-bottom: 12px;
+    opacity: 0.5;
+}
+p{
+    font-size: 15px;
+    margin-bottom: 12px;
+}
