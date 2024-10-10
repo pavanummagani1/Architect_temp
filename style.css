@@ -6,20 +6,23 @@
 }
 header{
     margin: 20px 30px;
+    transition: all 0.5s;
 }
 .section{
     display: inline-block;
     font-weight: 500;
 }
+.hover{
+    padding: 10px;
+}
 .hover:hover{
     background-color: #b9cbb9de;
-    padding: 10px;
 }
 .logo{
     font-weight: 900;
 }
 .item1{
-    margin: 0px 0px 0px 830px;
+    margin: 0px 0px 0px 750px;
 }
 .item1, .item2 , .item3{
     margin-right: 15px;
